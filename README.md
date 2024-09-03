@@ -16,7 +16,7 @@ This project represents a significant step in my journey through AI, NLP, and da
 ## Installation and Usage
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [FAISS](https://github.com/facebookresearch/faiss)
 - [Google Gemini Pro](https://gemini.google.com/)
@@ -24,5 +24,5 @@ This project represents a significant step in my journey through AI, NLP, and da
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/adityashakya836/AI-Powered-PDF-chat-tool.git
    cd/AI-Powered-PDF-chat-tool
