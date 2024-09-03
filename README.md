@@ -21,6 +21,9 @@ This project represents a significant step in my journey through AI, NLP, and da
 - [FAISS](https://github.com/facebookresearch/faiss)
 - [Google Gemini Pro](https://gemini.google.com/)
 
+[![Chat With PDF Demo]](https://github.com/adityashakya836/AI-Powered-PDF-chat-tool/blob/master/chat%20with%20pdf.mp4)
+
+
 ### Installation
 1. Clone the repository:
    ```bash
