@@ -24,5 +24,5 @@ This project represents a significant step in my journey through AI, NLP, and da
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   [git clone https://github.com/yourusername/your-repository-name.git](https://github.com/adityashakya836/AI-Powered-PDF-chat-tool.git)
+   [cd your-repository-name](https://github.com/adityashakya836/AI-Powered-PDF-chat-tool.git)
